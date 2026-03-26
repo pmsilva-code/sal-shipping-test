@@ -1,4 +1,4 @@
-# sal-shipping-test# Envio do Sal
+# Envio do Sal
 
 Sal administra a maior empresa de transportes da região metropolitana, a Sal's Shippers. Ele quer garantir que cada um de seus clientes tenha a melhor e mais acessível experiência no envio de suas encomendas.
 
